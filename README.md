@@ -6,10 +6,12 @@ Mathieu Boucher
 
 Yanis Hattab
 
+
+
 Implemented for the Video Games course (COMP 521) at the McGill University School
 of Computer Science. 
 
-[View Report](ProceduralEnvironmentGeneration/ProjectReport.pdf)
+[View Report](ProjectReport.pdf)
 
 In recent years, modern video games have improved exponentially in terms of the size of
 the world they offer and its fidelity to reality. Games like Assassin’s Creed Black Flag or Just
@@ -33,7 +35,7 @@ seeded height map (though we also cover this). This
 allows the user to create terrain with specific properties. The terrain generation implementation
 and the report sections on it are mainly done by Mathieu Boucher although it is happening in a
 spirit of collaboration.
-##Indigenous agentsè AI
+##Indigenous agents' AI
 Steering behaviours have been around in the video game industry for a while and
 represent a simple and efficient way to produce emergent behaviour and have nondeterministic
 AI. In our case we want to aggregate the different steering behaviours in one single base class
